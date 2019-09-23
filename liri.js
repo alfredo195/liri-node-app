@@ -1,5 +1,7 @@
 require("dotenv").config();
 
+var fs = require('fs');
+
 // keys
 var keys = require("./keys.js");
 
@@ -24,7 +26,7 @@ if (process.argv[2] === "spotify-this-song") {
 
 // spotify
 function spotify() {
-    
+
 }
 //concerts
 //movies
