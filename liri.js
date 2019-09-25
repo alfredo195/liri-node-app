@@ -1,5 +1,6 @@
 require("dotenv").config();
-
+var axios = require("axios")
+var moment = require("moment")
 var request = require("request");
 var fs = require('fs');
 
@@ -47,19 +48,19 @@ function userInputs (userOption, text) {
 
 // Functions 
 //concerts
-function concert(text){
+function concerts(text){
     var queryUrl = "https://rest.bandsintown.com/artists/" + text + "/events?app_id=codingbootcamp";
     request(queryUrl, function(error, response, body) {
-    // If the request is successful
-    if (!error && response.statusCode === 200) {
-        var concerts = JSON.parse(body);
-        for (var i = 0; i < concerts.length; i++) {  
-            console.log("**********EVENT INFO*********");  
-            fs.appendFileSync("log.txt", "**********EVENT INFO*********\n");//Append in log.txt file
-            console.log(i);
-            fs.appendFileSync("log.txt", i+"\n");
-            console.log("Name of the Venue: " + concerts[i].venue.name);
-            fs.appendFileSync("log.txt", "Name of the Venue: " + concerts[i].venue.name+"\n");
+        // If the request is successful
+        if (!error && response.statusCode === 200) {
+            var concerts = JSON.parse(body);
+            for (var i = 0; i < concerts.length; i++) {  
+                console.log("**********EVENT INFO*********");  
+                fs.appendFileSync("log.txt", "**********EVENT INFO*********\n");//Append in log.txt file
+                console.log(i);
+                fs.appendFileSync("log.txt", i+"\n");
+                console.log("Name of the Venue: " + concerts[i].venue.name);
+                fs.appendFileSync("log.txt", "Name of the Venue: " + concerts[i].venue.name+"\n");
             console.log("Venue Location: " +  concerts[i].venue.city);
             fs.appendFileSync("log.txt", "Venue Location: " +  concerts[i].venue.city+"\n");
             console.log("Date of the Event: " +  concerts[i].datetime);
@@ -78,9 +79,10 @@ function spotify(text) {
     }
     spotify.search(
         {
-
+            
         }
     )
 }
 //movies
 //doWhat
+userInputs(userOption,text)
