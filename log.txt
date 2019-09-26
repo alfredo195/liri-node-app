@@ -1329,3 +1329,1959 @@ Language: English, Mohawk
 Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 *****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Singapore Indoor Stadium
+Venue Location: Singapore
+Date of the Event: 2020-03-08T19:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: IMPACT Arena
+Venue Location: Bangkok
+Date of the Event: 2020-03-11T19:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Mall of Asia Arena
+Venue Location: Manila
+Date of the Event: 2020-03-14T19:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Taipei Arena
+Venue Location: Taipei
+Date of the Event: 2020-03-17T19:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: World Expo
+Venue Location: Hong Kong
+Date of the Event: 2020-03-20T19:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Jamsil Indoor Gym
+Venue Location: Jamsil
+Date of the Event: 2020-03-22T19:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Intex
+Venue Location: Higashi-osaka
+Date of the Event: 2020-03-25T19:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Tokyo Messe
+Venue Location: Tokyo
+Date of the Event: 2020-03-27T19:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Spartak Stadium
+Venue Location: Moscow
+Date of the Event: 2020-05-24T19:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Suvilahti
+Venue Location: Helsinki
+Date of the Event: 2020-05-27T19:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Tele2 Arena
+Venue Location: Stockholm
+Date of the Event: 2020-05-29T19:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Color Line Stadion
+Venue Location: Ålesund
+Date of the Event: 2020-05-31T19:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Parkbühne Wuhlheide
+Venue Location: Berlin
+Date of the Event: 2020-06-03T19:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Rock Am Ring/Rock Im Park (June 5-7, Single Day TBA)
+Venue Location: Nuremberg
+Date of the Event: 2020-06-05T19:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Ippodromo San Siro
+Venue Location: Milan
+Date of the Event: 2020-06-10T19:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Firenze Rocks
+Venue Location: Firenze
+Date of the Event: 2020-06-11T19:00:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Paris
+Date of the Event: 2020-06-13T19:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Groningen
+Date of the Event: 2020-06-14T19:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Wilrijk
+Date of the Event: 2020-06-17T19:00:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: Rock For People (single day, TBA)
+Venue Location: Hradec Kralove
+Date of the Event: 2020-06-18T19:00:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Wien
+Date of the Event: 2020-06-21T19:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Glasgow
+Date of the Event: 2020-06-24T19:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: London
+Date of the Event: 2020-06-26T19:00:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Huddersfield
+Date of the Event: 2020-06-27T19:00:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Dublin 4
+Date of the Event: 2020-06-29T19:00:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Seattle
+Date of the Event: 2020-07-17T19:00:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: San Francisco
+Date of the Event: 2020-07-21T19:00:00
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: San Diego
+Date of the Event: 2020-07-24T19:00:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Los Angeles
+Date of the Event: 2020-07-25T19:00:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Commerce City
+Date of the Event: 2020-07-28T19:00:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Dallas
+Date of the Event: 2020-07-31T19:00:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Houston
+Date of the Event: 2020-08-01T19:00:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Miami Gardens
+Date of the Event: 2020-08-05T19:00:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Jacksonville
+Date of the Event: 2020-08-06T19:00:00
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Atlanta
+Date of the Event: 2020-08-08T19:00:00
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Minneapolis
+Date of the Event: 2020-08-11T19:00:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Chicago
+Date of the Event: 2020-08-13T19:00:00
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Pittsburgh
+Date of the Event: 2020-08-15T19:00:00
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Hershey
+Date of the Event: 2020-08-16T19:00:00
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Detroit
+Date of the Event: 2020-08-19T19:00:00
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Washington
+Date of the Event: 2020-08-21T19:00:00
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: New York
+Date of the Event: 2020-08-22T19:00:00
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Toronto
+Date of the Event: 2020-08-24T19:00:00
+*****************************
+**********EVENT INFO*********
+43
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Boston
+Date of the Event: 2020-08-27T19:00:00
+*****************************
+**********EVENT INFO*********
+44
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Philadelphia
+Date of the Event: 2020-08-29T19:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Singapore Indoor Stadium
+Venue Location: Singapore
+Date of the Event: 2020-03-08T19:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: IMPACT Arena
+Venue Location: Bangkok
+Date of the Event: 2020-03-11T19:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Mall of Asia Arena
+Venue Location: Manila
+Date of the Event: 2020-03-14T19:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Taipei Arena
+Venue Location: Taipei
+Date of the Event: 2020-03-17T19:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: World Expo
+Venue Location: Hong Kong
+Date of the Event: 2020-03-20T19:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Jamsil Indoor Gym
+Venue Location: Jamsil
+Date of the Event: 2020-03-22T19:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Intex
+Venue Location: Higashi-osaka
+Date of the Event: 2020-03-25T19:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Tokyo Messe
+Venue Location: Tokyo
+Date of the Event: 2020-03-27T19:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Spartak Stadium
+Venue Location: Moscow
+Date of the Event: 2020-05-24T19:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Suvilahti
+Venue Location: Helsinki
+Date of the Event: 2020-05-27T19:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Tele2 Arena
+Venue Location: Stockholm
+Date of the Event: 2020-05-29T19:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Color Line Stadion
+Venue Location: Ålesund
+Date of the Event: 2020-05-31T19:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Parkbühne Wuhlheide
+Venue Location: Berlin
+Date of the Event: 2020-06-03T19:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Rock Am Ring/Rock Im Park (June 5-7, Single Day TBA)
+Venue Location: Nuremberg
+Date of the Event: 2020-06-05T19:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Ippodromo San Siro
+Venue Location: Milan
+Date of the Event: 2020-06-10T19:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Firenze Rocks
+Venue Location: Firenze
+Date of the Event: 2020-06-11T19:00:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Paris
+Date of the Event: 2020-06-13T19:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Groningen
+Date of the Event: 2020-06-14T19:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Wilrijk
+Date of the Event: 2020-06-17T19:00:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: Rock For People (single day, TBA)
+Venue Location: Hradec Kralove
+Date of the Event: 2020-06-18T19:00:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Wien
+Date of the Event: 2020-06-21T19:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Glasgow
+Date of the Event: 2020-06-24T19:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: London
+Date of the Event: 2020-06-26T19:00:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Huddersfield
+Date of the Event: 2020-06-27T19:00:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Dublin 4
+Date of the Event: 2020-06-29T19:00:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Seattle
+Date of the Event: 2020-07-17T19:00:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: San Francisco
+Date of the Event: 2020-07-21T19:00:00
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: San Diego
+Date of the Event: 2020-07-24T19:00:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Los Angeles
+Date of the Event: 2020-07-25T19:00:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Commerce City
+Date of the Event: 2020-07-28T19:00:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Dallas
+Date of the Event: 2020-07-31T19:00:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Houston
+Date of the Event: 2020-08-01T19:00:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Miami Gardens
+Date of the Event: 2020-08-05T19:00:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Jacksonville
+Date of the Event: 2020-08-06T19:00:00
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Atlanta
+Date of the Event: 2020-08-08T19:00:00
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Minneapolis
+Date of the Event: 2020-08-11T19:00:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Chicago
+Date of the Event: 2020-08-13T19:00:00
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Pittsburgh
+Date of the Event: 2020-08-15T19:00:00
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Hershey
+Date of the Event: 2020-08-16T19:00:00
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Detroit
+Date of the Event: 2020-08-19T19:00:00
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Washington
+Date of the Event: 2020-08-21T19:00:00
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: New York
+Date of the Event: 2020-08-22T19:00:00
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Toronto
+Date of the Event: 2020-08-24T19:00:00
+*****************************
+**********EVENT INFO*********
+43
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Boston
+Date of the Event: 2020-08-27T19:00:00
+*****************************
+**********EVENT INFO*********
+44
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Philadelphia
+Date of the Event: 2020-08-29T19:00:00
+*****************************
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=6ab9092f255c495390cc9c44961492ca
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+1
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+2
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=6ab9092f255c495390cc9c44961492ca
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+3
+song name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+preview song: null
+album: Revenge Of The Dreamers III
+artist(s): Dreamville
+*****************************
+**********SONG INFO*********
+4
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+5
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6ab9092f255c495390cc9c44961492ca
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+6
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=6ab9092f255c495390cc9c44961492ca
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+7
+song name: Hottest In The City
+preview song: https://p.scdn.co/mp3-preview/16c147262bc4013045292a2756412844f69196aa?cid=6ab9092f255c495390cc9c44961492ca
+album: Hottest In The City
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+8
+song name: Way Back Home (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/bcd284558721549751344590778ffa6efa3d7862?cid=6ab9092f255c495390cc9c44961492ca
+album: The Lost Boy
+artist(s): YBN Cordae
+*****************************
+**********SONG INFO*********
+9
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=6ab9092f255c495390cc9c44961492ca
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG INFO*********
+10
+song name: Do You Mean
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=6ab9092f255c495390cc9c44961492ca
+album: World War Joy...Takeaway
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+11
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+12
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=6ab9092f255c495390cc9c44961492ca
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+13
+song name: The Light
+preview song: null
+album: MIH-TY
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+14
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+*****************************
+**********SONG INFO*********
+15
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+16
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=6ab9092f255c495390cc9c44961492ca
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+17
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=6ab9092f255c495390cc9c44961492ca
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+18
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=6ab9092f255c495390cc9c44961492ca
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+*****************************
+**********SONG INFO*********
+19
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=6ab9092f255c495390cc9c44961492ca
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=6ab9092f255c495390cc9c44961492ca
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+1
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+2
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=6ab9092f255c495390cc9c44961492ca
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+3
+song name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+preview song: null
+album: Revenge Of The Dreamers III
+artist(s): Dreamville
+*****************************
+**********SONG INFO*********
+4
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+5
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6ab9092f255c495390cc9c44961492ca
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+6
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=6ab9092f255c495390cc9c44961492ca
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+7
+song name: Hottest In The City
+preview song: https://p.scdn.co/mp3-preview/16c147262bc4013045292a2756412844f69196aa?cid=6ab9092f255c495390cc9c44961492ca
+album: Hottest In The City
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+8
+song name: Way Back Home (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/bcd284558721549751344590778ffa6efa3d7862?cid=6ab9092f255c495390cc9c44961492ca
+album: The Lost Boy
+artist(s): YBN Cordae
+*****************************
+**********SONG INFO*********
+9
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=6ab9092f255c495390cc9c44961492ca
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG INFO*********
+10
+song name: Do You Mean
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=6ab9092f255c495390cc9c44961492ca
+album: World War Joy...Takeaway
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+11
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+12
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=6ab9092f255c495390cc9c44961492ca
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+13
+song name: The Light
+preview song: null
+album: MIH-TY
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+14
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+*****************************
+**********SONG INFO*********
+15
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+16
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=6ab9092f255c495390cc9c44961492ca
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+17
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=6ab9092f255c495390cc9c44961492ca
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+18
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=6ab9092f255c495390cc9c44961492ca
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+*****************************
+**********SONG INFO*********
+19
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=6ab9092f255c495390cc9c44961492ca
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********MOVIE INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+*****************************
+**********MOVIE INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=6ab9092f255c495390cc9c44961492ca
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=6ab9092f255c495390cc9c44961492ca
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=6ab9092f255c495390cc9c44961492ca
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=6ab9092f255c495390cc9c44961492ca
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=6ab9092f255c495390cc9c44961492ca
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=6ab9092f255c495390cc9c44961492ca
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=6ab9092f255c495390cc9c44961492ca
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=6ab9092f255c495390cc9c44961492ca
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+10
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=6ab9092f255c495390cc9c44961492ca
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=6ab9092f255c495390cc9c44961492ca
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=6ab9092f255c495390cc9c44961492ca
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=6ab9092f255c495390cc9c44961492ca
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=6ab9092f255c495390cc9c44961492ca
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=6ab9092f255c495390cc9c44961492ca
+album: Musicbox
+artist(s): Nineties Legends
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=6ab9092f255c495390cc9c44961492ca
+album: Boulevard You
+artist(s): CaryLamb
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=6ab9092f255c495390cc9c44961492ca
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+18
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=6ab9092f255c495390cc9c44961492ca
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=6ab9092f255c495390cc9c44961492ca
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=6ab9092f255c495390cc9c44961492ca
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=6ab9092f255c495390cc9c44961492ca
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=6ab9092f255c495390cc9c44961492ca
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=6ab9092f255c495390cc9c44961492ca
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=6ab9092f255c495390cc9c44961492ca
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=6ab9092f255c495390cc9c44961492ca
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=6ab9092f255c495390cc9c44961492ca
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=6ab9092f255c495390cc9c44961492ca
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+10
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=6ab9092f255c495390cc9c44961492ca
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=6ab9092f255c495390cc9c44961492ca
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=6ab9092f255c495390cc9c44961492ca
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=6ab9092f255c495390cc9c44961492ca
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=6ab9092f255c495390cc9c44961492ca
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=6ab9092f255c495390cc9c44961492ca
+album: Musicbox
+artist(s): Nineties Legends
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=6ab9092f255c495390cc9c44961492ca
+album: Boulevard You
+artist(s): CaryLamb
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=6ab9092f255c495390cc9c44961492ca
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+18
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=6ab9092f255c495390cc9c44961492ca
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=6ab9092f255c495390cc9c44961492ca
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********MOVIE INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+*****************************
+**********MOVIE INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+*****************************
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=6ab9092f255c495390cc9c44961492ca
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+1
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+2
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=6ab9092f255c495390cc9c44961492ca
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+3
+song name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+preview song: null
+album: Revenge Of The Dreamers III
+artist(s): Dreamville
+*****************************
+**********SONG INFO*********
+4
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+5
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6ab9092f255c495390cc9c44961492ca
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+6
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=6ab9092f255c495390cc9c44961492ca
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+7
+song name: Hottest In The City
+preview song: https://p.scdn.co/mp3-preview/16c147262bc4013045292a2756412844f69196aa?cid=6ab9092f255c495390cc9c44961492ca
+album: Hottest In The City
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+8
+song name: Way Back Home (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/bcd284558721549751344590778ffa6efa3d7862?cid=6ab9092f255c495390cc9c44961492ca
+album: The Lost Boy
+artist(s): YBN Cordae
+*****************************
+**********SONG INFO*********
+9
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=6ab9092f255c495390cc9c44961492ca
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG INFO*********
+10
+song name: Do You Mean
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=6ab9092f255c495390cc9c44961492ca
+album: World War Joy...Takeaway
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+11
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+12
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=6ab9092f255c495390cc9c44961492ca
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+13
+song name: The Light
+preview song: null
+album: MIH-TY
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+14
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+*****************************
+**********SONG INFO*********
+15
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+16
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=6ab9092f255c495390cc9c44961492ca
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+17
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=6ab9092f255c495390cc9c44961492ca
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+18
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=6ab9092f255c495390cc9c44961492ca
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+*****************************
+**********SONG INFO*********
+19
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=6ab9092f255c495390cc9c44961492ca
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=6ab9092f255c495390cc9c44961492ca
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+1
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+2
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=6ab9092f255c495390cc9c44961492ca
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+3
+song name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+preview song: null
+album: Revenge Of The Dreamers III
+artist(s): Dreamville
+*****************************
+**********SONG INFO*********
+4
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+5
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6ab9092f255c495390cc9c44961492ca
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+6
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=6ab9092f255c495390cc9c44961492ca
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+7
+song name: Hottest In The City
+preview song: https://p.scdn.co/mp3-preview/16c147262bc4013045292a2756412844f69196aa?cid=6ab9092f255c495390cc9c44961492ca
+album: Hottest In The City
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+8
+song name: Way Back Home (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/bcd284558721549751344590778ffa6efa3d7862?cid=6ab9092f255c495390cc9c44961492ca
+album: The Lost Boy
+artist(s): YBN Cordae
+*****************************
+**********SONG INFO*********
+9
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=6ab9092f255c495390cc9c44961492ca
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG INFO*********
+10
+song name: Do You Mean
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=6ab9092f255c495390cc9c44961492ca
+album: World War Joy...Takeaway
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+11
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+12
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=6ab9092f255c495390cc9c44961492ca
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+13
+song name: The Light
+preview song: null
+album: MIH-TY
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+14
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+*****************************
+**********SONG INFO*********
+15
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+16
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=6ab9092f255c495390cc9c44961492ca
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+17
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=6ab9092f255c495390cc9c44961492ca
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+18
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=6ab9092f255c495390cc9c44961492ca
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+*****************************
+**********SONG INFO*********
+19
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=6ab9092f255c495390cc9c44961492ca
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Singapore Indoor Stadium
+Venue Location: Singapore
+Date of the Event: 2020-03-08T19:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: IMPACT Arena
+Venue Location: Bangkok
+Date of the Event: 2020-03-11T19:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Mall of Asia Arena
+Venue Location: Manila
+Date of the Event: 2020-03-14T19:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Taipei Arena
+Venue Location: Taipei
+Date of the Event: 2020-03-17T19:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: World Expo
+Venue Location: Hong Kong
+Date of the Event: 2020-03-20T19:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Jamsil Indoor Gym
+Venue Location: Jamsil
+Date of the Event: 2020-03-22T19:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Intex
+Venue Location: Higashi-osaka
+Date of the Event: 2020-03-25T19:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Tokyo Messe
+Venue Location: Tokyo
+Date of the Event: 2020-03-27T19:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Spartak Stadium
+Venue Location: Moscow
+Date of the Event: 2020-05-24T19:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Suvilahti
+Venue Location: Helsinki
+Date of the Event: 2020-05-27T19:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Tele2 Arena
+Venue Location: Stockholm
+Date of the Event: 2020-05-29T19:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Color Line Stadion
+Venue Location: Ålesund
+Date of the Event: 2020-05-31T19:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Parkbühne Wuhlheide
+Venue Location: Berlin
+Date of the Event: 2020-06-03T19:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Rock Am Ring/Rock Im Park (June 5-7, Single Day TBA)
+Venue Location: Nuremberg
+Date of the Event: 2020-06-05T19:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Ippodromo San Siro
+Venue Location: Milan
+Date of the Event: 2020-06-10T19:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Firenze Rocks
+Venue Location: Firenze
+Date of the Event: 2020-06-11T19:00:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Paris
+Date of the Event: 2020-06-13T19:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Groningen
+Date of the Event: 2020-06-14T19:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Wilrijk
+Date of the Event: 2020-06-17T19:00:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: Rock For People (single day, TBA)
+Venue Location: Hradec Kralove
+Date of the Event: 2020-06-18T19:00:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Wien
+Date of the Event: 2020-06-21T19:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Glasgow
+Date of the Event: 2020-06-24T19:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: London
+Date of the Event: 2020-06-26T19:00:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Huddersfield
+Date of the Event: 2020-06-27T19:00:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Dublin 4
+Date of the Event: 2020-06-29T19:00:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Seattle
+Date of the Event: 2020-07-17T19:00:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: San Francisco
+Date of the Event: 2020-07-21T19:00:00
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: San Diego
+Date of the Event: 2020-07-24T19:00:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Los Angeles
+Date of the Event: 2020-07-25T19:00:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Commerce City
+Date of the Event: 2020-07-28T19:00:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Dallas
+Date of the Event: 2020-07-31T19:00:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Houston
+Date of the Event: 2020-08-01T19:00:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Miami Gardens
+Date of the Event: 2020-08-05T19:00:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Jacksonville
+Date of the Event: 2020-08-06T19:00:00
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Atlanta
+Date of the Event: 2020-08-08T19:00:00
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Minneapolis
+Date of the Event: 2020-08-11T19:00:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Chicago
+Date of the Event: 2020-08-13T19:00:00
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Pittsburgh
+Date of the Event: 2020-08-15T19:00:00
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Hershey
+Date of the Event: 2020-08-16T19:00:00
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Detroit
+Date of the Event: 2020-08-19T19:00:00
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Washington
+Date of the Event: 2020-08-21T19:00:00
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: New York
+Date of the Event: 2020-08-22T19:00:00
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Toronto
+Date of the Event: 2020-08-24T19:00:00
+*****************************
+**********EVENT INFO*********
+43
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Boston
+Date of the Event: 2020-08-27T19:00:00
+*****************************
+**********EVENT INFO*********
+44
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Philadelphia
+Date of the Event: 2020-08-29T19:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Singapore Indoor Stadium
+Venue Location: Singapore
+Date of the Event: 2020-03-08T19:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: IMPACT Arena
+Venue Location: Bangkok
+Date of the Event: 2020-03-11T19:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Mall of Asia Arena
+Venue Location: Manila
+Date of the Event: 2020-03-14T19:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Taipei Arena
+Venue Location: Taipei
+Date of the Event: 2020-03-17T19:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: World Expo
+Venue Location: Hong Kong
+Date of the Event: 2020-03-20T19:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Jamsil Indoor Gym
+Venue Location: Jamsil
+Date of the Event: 2020-03-22T19:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Intex
+Venue Location: Higashi-osaka
+Date of the Event: 2020-03-25T19:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Tokyo Messe
+Venue Location: Tokyo
+Date of the Event: 2020-03-27T19:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Spartak Stadium
+Venue Location: Moscow
+Date of the Event: 2020-05-24T19:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Suvilahti
+Venue Location: Helsinki
+Date of the Event: 2020-05-27T19:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Tele2 Arena
+Venue Location: Stockholm
+Date of the Event: 2020-05-29T19:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Color Line Stadion
+Venue Location: Ålesund
+Date of the Event: 2020-05-31T19:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Parkbühne Wuhlheide
+Venue Location: Berlin
+Date of the Event: 2020-06-03T19:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Rock Am Ring/Rock Im Park (June 5-7, Single Day TBA)
+Venue Location: Nuremberg
+Date of the Event: 2020-06-05T19:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Ippodromo San Siro
+Venue Location: Milan
+Date of the Event: 2020-06-10T19:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Firenze Rocks
+Venue Location: Firenze
+Date of the Event: 2020-06-11T19:00:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Paris
+Date of the Event: 2020-06-13T19:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Groningen
+Date of the Event: 2020-06-14T19:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Wilrijk
+Date of the Event: 2020-06-17T19:00:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: Rock For People (single day, TBA)
+Venue Location: Hradec Kralove
+Date of the Event: 2020-06-18T19:00:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Wien
+Date of the Event: 2020-06-21T19:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Glasgow
+Date of the Event: 2020-06-24T19:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: London
+Date of the Event: 2020-06-26T19:00:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Huddersfield
+Date of the Event: 2020-06-27T19:00:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + special guest
+Venue Location: Dublin 4
+Date of the Event: 2020-06-29T19:00:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Seattle
+Date of the Event: 2020-07-17T19:00:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: San Francisco
+Date of the Event: 2020-07-21T19:00:00
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: San Diego
+Date of the Event: 2020-07-24T19:00:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Los Angeles
+Date of the Event: 2020-07-25T19:00:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Commerce City
+Date of the Event: 2020-07-28T19:00:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Dallas
+Date of the Event: 2020-07-31T19:00:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Houston
+Date of the Event: 2020-08-01T19:00:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Miami Gardens
+Date of the Event: 2020-08-05T19:00:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Jacksonville
+Date of the Event: 2020-08-06T19:00:00
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Atlanta
+Date of the Event: 2020-08-08T19:00:00
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Minneapolis
+Date of the Event: 2020-08-11T19:00:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Chicago
+Date of the Event: 2020-08-13T19:00:00
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Pittsburgh
+Date of the Event: 2020-08-15T19:00:00
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Hershey
+Date of the Event: 2020-08-16T19:00:00
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Detroit
+Date of the Event: 2020-08-19T19:00:00
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Washington
+Date of the Event: 2020-08-21T19:00:00
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: New York
+Date of the Event: 2020-08-22T19:00:00
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Toronto
+Date of the Event: 2020-08-24T19:00:00
+*****************************
+**********EVENT INFO*********
+43
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Boston
+Date of the Event: 2020-08-27T19:00:00
+*****************************
+**********EVENT INFO*********
+44
+Name of the Venue: Hella Mega Tour w/Green Day, Fall Out Boy, Weezer + The Interrupters
+Venue Location: Philadelphia
+Date of the Event: 2020-08-29T19:00:00
+*****************************
