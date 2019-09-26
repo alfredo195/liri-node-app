@@ -14,6 +14,7 @@ var spotify = new Spotify(keys.spotify);
 //input command for gitbash
 var userOption = process.argv[2]; 
 var text = process.argv[3]
+userInputs(userOption,text)
 
 //switch
 function userInputs (userOption, text) {
@@ -28,7 +29,7 @@ function userInputs (userOption, text) {
             movies(text)
             break;
         case "do-what-it-says":
-            doWhat(Text)
+            doWhat(text)
             break;
             default: 
             console.log("Invalid Option. Please type any of the following options: \nconcert-this \nspotify-this-song \nmovie-this \ndo-what-it-says")
@@ -110,17 +111,11 @@ function spotifY(text) {
     )
 }
 //movies
-function movies(inputParameter){
-    if (inputParameter === undefined) {
-        inputParameter = "Mr. Nobody"
-        console.log("-----------------------");
-        fs.appendFileSync("log.txt", "-----------------------\n");
-        console.log("If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/");
-        fs.appendFileSync("log.txt", "If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/" +"\n");
-        console.log("It's on Netflix!");
-        fs.appendFileSync("log.txt", "It's on Netflix!\n");
+function movies(text){
+    if (text === undefined) {
+        text = "Mr. Nobody"
     }
-    var queryUrl = "http://www.omdbapi.com/?t=" + inputParameter + "&y=&plot=short&apikey=b3c0b435";
+    var queryUrl = "http://www.omdbapi.com/?t=" + text + "&y=&plot=short&apikey=trilogy";
     request(queryUrl, function(error, response, body) {
     // If the request is successful
     if (!error && response.statusCode === 200) {
@@ -149,5 +144,14 @@ function movies(inputParameter){
 
 });}
 //doWhat
+function doWhat(text){
+	fs.readFile('random.txt', 'utf8', function(err, data){
+		if (err){ 
+			return console.log(err);
+		}
+        var dataArr = data.split(',');
+        userInputs(dataArr[0], dataArr[1]);
+	});
+}
 userInputs(userOption,text)
 //spotifY(userOption,text)
